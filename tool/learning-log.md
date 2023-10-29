@@ -1,19 +1,19 @@
 # Tool Learning Log
 
-Tool: **X**
+Tool: **Flutter**
 
-Project: **X**
+Project: **Making an App that lets user post/view jobs**
 
 ---
 
-X/X/XX:
-* Text
+10/25/23:
+* 
 
 X/X/XX:
 * Text
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
