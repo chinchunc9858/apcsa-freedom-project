@@ -18,8 +18,14 @@ Project: **Making an App that lets user post/view jobs**
   * dart
   * awesome flutter snippets
 These tools helps us make our codes much quicker than before. It autofills the code that we want and we just have to change the name of these codes.
-* I also learned that in order to make the preview of my app to look like it is on the phone I need to download Android SDK
+* I also learned that in order to make the preview of my app to look like it is on the phone I need to download Android SDK 
   * Android SDk (makes the preview look like a phone instead of a website)
+
+12/10/23:
+* I learned about the documentation online by watching tutorials.
+  * making boxes that contain information.
+  * changing the color to the one I want.
+  * using fonts to make the text look more unique.
 
 
 
