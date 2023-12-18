@@ -27,6 +27,11 @@ These tools helps us make our codes much quicker than before. It autofills the c
   * changing the color to the one I want.
   * using fonts to make the text look more unique.
 
+12/17/23:
+* I learned that flutter have the same concept as making a website.
+  * The font can be changed to our liking.
+  * It is able to make logos and symbols such as the next button.
+
 
 
 <!--
