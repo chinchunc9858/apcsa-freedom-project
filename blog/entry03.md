@@ -17,6 +17,9 @@ As a result, this is how it looks like:
 
 ![Alt text](image-2.png)
 
+**What to learn next**
+I want to have a better understanding of the text tool so that when certain text is being written it would be posted on the front page of the screen and hopefully it would be interactive later on.
+
 **Skills:** Two skills I developed for this entry.
 1. I learned **how to google** by exploring the [documentation](https://api.flutter.dev/flutter/material/AppBar-class.html) to understand the basics of Flutter and using examples that might be useful for my project.
 2. I learned **how to learn** by using examples and reworking them to have a better understanding. In this case, I learned that the list of names and the [icons](https://api.flutter.dev/flutter/material/Icons-class.html) can be changed with the help of input code from Flutter.
