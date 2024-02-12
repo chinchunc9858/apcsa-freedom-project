@@ -18,7 +18,9 @@ As a result, this is how it looks like:
 ![Alt text](image-2.png)
 
 **What to learn next**
-I want to have a better understanding of the text tool so that when certain text is being written it would be posted on the front page of the screen and hopefully it would be interactive later on.
+
+1. I want to have a better understanding of the text tool so that when certain text is being written it would be posted on the front page of the screen and hopefully it would be interactive later on.
+2. How to make a form with the same questions so that each post would be organized and it wouldn't be a mess.
 
 **Skills:** Two skills I developed for this entry.
 1. I learned **how to google** by exploring the [documentation](https://api.flutter.dev/flutter/material/AppBar-class.html) to understand the basics of Flutter and using examples that might be useful for my project.
