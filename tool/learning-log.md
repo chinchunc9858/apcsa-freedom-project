@@ -32,6 +32,11 @@ These tools helps us make our codes much quicker than before. It autofills the c
   * The font can be changed to our liking.
   * It is able to make logos and symbols such as the next button.
 
+  2/11/24:
+* I learned that Flutter has a lot of documentation.
+  * different types of keywords for different types of icons.
+  * there are different sections such as the head, body, and bottom.
+
 
 
 <!--
