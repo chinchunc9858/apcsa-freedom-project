@@ -37,6 +37,10 @@ These tools helps us make our codes much quicker than before. It autofills the c
   * different types of keywords for different types of icons.
   * there are different sections such as the head, body, and bottom.
 
+3/3/24:
+* I learned that Flutter has a built-in system where we have code shortcuts to quickly implement the functions we are looking for.
+* I also learned flutter has different categories and each part is built into each other to complete something as a whole.
+
 
 
 <!--
