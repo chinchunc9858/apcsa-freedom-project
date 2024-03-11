@@ -41,6 +41,14 @@ These tools helps us make our codes much quicker than before. It autofills the c
 * I learned that Flutter has a built-in system where we have code shortcuts to quickly implement the functions we are looking for.
 * I also learned flutter has different categories and each part is built into each other to complete something as a whole.
 
+3/10/24:
+* I figured out that my app needs API.
+  * Application programming interface that allows datas to be stored and transfered. (This can help me make things like the login page and the job post).
+* I also learned that firebase is recommendated.
+  * It has realtime database allowing users to store large amount of datas.
+  * It also allow texting functions (not going to be in my MVP but good to know).
+* Going to try unzipping some API and see what it does and use the ones that are helpful.
+
 
 
 <!--
