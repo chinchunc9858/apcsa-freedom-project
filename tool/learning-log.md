@@ -49,6 +49,14 @@ These tools helps us make our codes much quicker than before. It autofills the c
   * It also allow texting functions (not going to be in my MVP but good to know).
 * Going to try unzipping some API and see what it does and use the ones that are helpful.
 
+3/17/24
+* I learned more about API
+  * Post, get, update, and delete have their respective APIs.
+* I learned that I didn't need to unzip any API.
+  * I just need to edit pubspec.yaml file in my Flutter library for the APIs.
+* Firebase (maybe will do it if I have time still keeping a mental note of it).
+* Trying to organize my app to have sections with user assessability.
+
 
 
 <!--
