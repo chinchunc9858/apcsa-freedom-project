@@ -57,6 +57,13 @@ These tools helps us make our codes much quicker than before. It autofills the c
 * Firebase (maybe will do it if I have time still keeping a mental note of it).
 * Trying to organize my app to have sections with user assessability.
 
+3/31/23
+* I learned created a login in design page.
+  * trying to use firebase to make it so that it can store data.
+* Problem (i accidentally cleaned my flutter files)
+  * multiple errors
+    * trying to fix it by redownloading flutter and copy and paste the code I have already 
+
 
 
 <!--
