@@ -57,12 +57,21 @@ These tools helps us make our codes much quicker than before. It autofills the c
 * Firebase (maybe will do it if I have time still keeping a mental note of it).
 * Trying to organize my app to have sections with user assessability.
 
-3/31/23
+3/31/24
 * I learned created a login in design page.
   * trying to use firebase to make it so that it can store data.
 * Problem (i accidentally cleaned my flutter files)
   * multiple errors
-    * trying to fix it by redownloading flutter and copy and paste the code I have already 
+    * trying to fix it by redownloading flutter and copy and paste the code I have already.
+
+4/7/24
+* I fixed 506,016 errors. How?
+  * I reinstalled Flutter
+    * Downloaded android embulator
+      * The phone model is know visible
+* Created the login page.
+  * Functionality is not completed (firebased needed)
+    * Next step: making the login linked into the next section of the app the main page. 
 
 
 
