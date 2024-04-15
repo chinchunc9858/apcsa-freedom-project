@@ -71,7 +71,17 @@ These tools helps us make our codes much quicker than before. It autofills the c
       * The phone model is know visible
 * Created the login page.
   * Functionality is not completed (firebased needed)
-    * Next step: making the login linked into the next section of the app the main page. 
+    * Next step: making the login linked into the next section of the app the main page.
+
+4/14/24
+* I create a new bug
+  * It shows a yellow black stipes (pixel overflow).
+    * happend b/c the login page used the max pixel already
+      * fixed b/c resizeToAvoidBottomInset : false.
+        * Makes the typing screen less fancy so it doesn't push stuff up so that overflow error wont appear.
+* added logos
+* trying to make the login button direct to another page
+  * plan to add functionalities to post delete buttons.   
 
 
 
