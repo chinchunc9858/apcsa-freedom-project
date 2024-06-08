@@ -8,16 +8,20 @@ For my project, I chose to independently study **Flutter** in order to help me m
 
 ## Links
 
-[Product]()
+[Product](https://drive.google.com/file/d/1M8h2MoGZELIyEZdNGlVcffSpJ8N8nu97/view?resourcekey)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1cVqDzI12i-Q9oq4np9Z561g6Yc3c3QMYid8cjqsdPMM/edit#slide=id.g2de452f5eed_0_2886)
 
 ## Implications
 ##### PROS
-* 
+* More employment.
+* More stable lifestyle.
+* Better economic system.
+* Less homeless community.
 ##### CONS
-* 
-
+* Less job demand.
+* Cost of living might increase.
+* Inflation
 
 ## Blog
 Below you will find my blog about how I made my project.
